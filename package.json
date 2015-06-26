@@ -1,0 +1,11 @@
+{
+	"name": "info-webpack-plugin",
+	"version": "0.1.0",
+	"author": "Izaak Schroeder <izaak.schroeder@gmail.com>",
+	"license": "CC0-1.0",
+	"repository": "izaakschroeder/info-webpack-plugin",
+	"main": "lib/info.js",
+	"dependencies": {
+		"chalk": "^1.0.0"
+	}
+}
